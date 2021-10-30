@@ -10,6 +10,4 @@ Create a RPS game that takes user input from the command line and plays against 
 
 * Compare the user's input to the computer's choice to determine if the user won, lost, or tied.
 
-## Hints
-
-* Look into this [stackoverflow](https://stackoverflow.com/questions/306400/how-to-randomly-select-an-item-from-a-list) question for usage.
+r usage.
